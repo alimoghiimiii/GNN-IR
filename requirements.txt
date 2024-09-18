@@ -1,0 +1,17 @@
+# Required packages for both pip and conda package managers
+# Note 1: Packages with specific comments are for pip only
+# Note 2: The conda alternative for pip only pacakges is mentioned
+
+matplotlib>=3.7.5
+networkx>=3.2.1
+nltk>=3.2.4
+pandas>=2.2.2
+pillow>=9.5.0
+pycocotools>=2.0.8
+requests>=2.32.3
+scikit-learn>=1.2.2
+torch>=2.1.2 # pip (pytorch with conda)
+torch_geometric>=2.5.2 # pip (pyg with conda)
+torchvision>=0.16.2
+tqdm>=4.66.4
+wordcloud>=1.9.3

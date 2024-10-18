@@ -2,6 +2,7 @@
 # Note 1: Packages with specific comments are for pip only
 # Note 2: The conda alternative for pip only pacakges is mentioned
 
+faiss>=1.8.0
 matplotlib>=3.7.5
 networkx>=3.2.1
 nltk>=3.2.4
